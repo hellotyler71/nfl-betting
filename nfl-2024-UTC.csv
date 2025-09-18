@@ -1,0 +1,286 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+16,1,06/09/2024 00:20,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,Baltimore Ravens,27 - 20
+15,1,07/09/2024 00:15,Arena Corinthians,Philadelphia Eagles,Green Bay Packers,34 - 29
+7,1,08/09/2024 17:00,Mercedes-Benz Stadium,Atlanta Falcons,Pittsburgh Steelers,10 - 18
+8,1,08/09/2024 17:00,Highmark Stadium,Buffalo Bills,Arizona Cardinals,34 - 28
+9,1,08/09/2024 17:00,Soldier Field,Chicago Bears,Tennessee Titans,24 - 17
+10,1,08/09/2024 17:00,Paycor Stadium,Cincinnati Bengals,New England Patriots,10 - 16
+11,1,08/09/2024 17:00,Lucas Oil Stadium,Indianapolis Colts,Houston Texans,27 - 29
+12,1,08/09/2024 17:00,Hard Rock Stadium,Miami Dolphins,Jacksonville Jaguars,20 - 17
+13,1,08/09/2024 17:00,Caesars Superdome,New Orleans Saints,Carolina Panthers,47 - 10
+14,1,08/09/2024 17:00,MetLife Stadium,New York Giants,Minnesota Vikings,6 - 28
+5,1,08/09/2024 20:05,SoFi Stadium,Los Angeles Chargers,Las Vegas Raiders,22 - 10
+6,1,08/09/2024 20:05,Lumen Field,Seattle Seahawks,Denver Broncos,26 - 20
+3,1,08/09/2024 20:25,Cleveland Browns Stadium,Cleveland Browns,Dallas Cowboys,17 - 33
+4,1,08/09/2024 20:25,Raymond James Stadium,Tampa Bay Buccaneers,Washington Commanders,37 - 20
+2,1,09/09/2024 00:20,Ford Field,Detroit Lions,Los Angeles Rams,26 - 20
+1,1,10/09/2024 00:15,Levi's Stadium,San Francisco 49ers,New York Jets,32 - 19
+32,2,13/09/2024 00:15,Hard Rock Stadium,Miami Dolphins,Buffalo Bills,10 - 31
+22,2,15/09/2024 17:00,M&T Bank Stadium,Baltimore Ravens,Las Vegas Raiders,23 - 26
+23,2,15/09/2024 17:00,Bank of America Stadium,Carolina Panthers,Los Angeles Chargers,3 - 26
+24,2,15/09/2024 17:00,AT&T Stadium,Dallas Cowboys,New Orleans Saints,19 - 44
+25,2,15/09/2024 17:00,Ford Field,Detroit Lions,Tampa Bay Buccaneers,16 - 20
+26,2,15/09/2024 17:00,Lambeau Field,Green Bay Packers,Indianapolis Colts,16 - 10
+27,2,15/09/2024 17:00,EverBank Stadium,Jacksonville Jaguars,Cleveland Browns,13 - 18
+28,2,15/09/2024 17:00,U.S. Bank Stadium,Minnesota Vikings,San Francisco 49ers,23 - 17
+29,2,15/09/2024 17:00,Gillette Stadium,New England Patriots,Seattle Seahawks,20 - 23
+30,2,15/09/2024 17:00,Nissan Stadium,Tennessee Titans,New York Jets,17 - 24
+31,2,15/09/2024 17:00,Northwest Stadium,Washington Commanders,New York Giants,21 - 18
+21,2,15/09/2024 20:05,State Farm Stadium,Arizona Cardinals,Los Angeles Rams,41 - 10
+19,2,15/09/2024 20:25,Empower Field at Mile High,Denver Broncos,Pittsburgh Steelers,6 - 13
+20,2,15/09/2024 20:25,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,Cincinnati Bengals,26 - 25
+18,2,16/09/2024 00:20,NRG Stadium,Houston Texans,Chicago Bears,19 - 13
+17,2,17/09/2024 00:15,Lincoln Financial Field,Philadelphia Eagles,Atlanta Falcons,21 - 22
+48,3,20/09/2024 00:15,MetLife Stadium,New York Jets,New England Patriots,24 - 3
+41,3,22/09/2024 17:00,Cleveland Browns Stadium,Cleveland Browns,New York Giants,15 - 21
+42,3,22/09/2024 17:00,Lucas Oil Stadium,Indianapolis Colts,Chicago Bears,21 - 16
+43,3,22/09/2024 17:00,U.S. Bank Stadium,Minnesota Vikings,Houston Texans,34 - 7
+44,3,22/09/2024 17:00,Caesars Superdome,New Orleans Saints,Philadelphia Eagles,12 - 15
+45,3,22/09/2024 17:00,Acrisure Stadium,Pittsburgh Steelers,Los Angeles Chargers,20 - 10
+46,3,22/09/2024 17:00,Raymond James Stadium,Tampa Bay Buccaneers,Denver Broncos,7 - 26
+47,3,22/09/2024 17:00,Nissan Stadium,Tennessee Titans,Green Bay Packers,14 - 30
+39,3,22/09/2024 20:05,Allegiant Stadium,Las Vegas Raiders,Carolina Panthers,22 - 36
+40,3,22/09/2024 20:05,Lumen Field,Seattle Seahawks,Miami Dolphins,24 - 3
+36,3,22/09/2024 20:25,State Farm Stadium,Arizona Cardinals,Detroit Lions,13 - 20
+37,3,22/09/2024 20:25,AT&T Stadium,Dallas Cowboys,Baltimore Ravens,25 - 28
+38,3,22/09/2024 20:25,SoFi Stadium,Los Angeles Rams,San Francisco 49ers,27 - 24
+35,3,23/09/2024 00:20,Mercedes-Benz Stadium,Atlanta Falcons,Kansas City Chiefs,17 - 22
+34,3,23/09/2024 23:30,Highmark Stadium,Buffalo Bills,Jacksonville Jaguars,47 - 10
+33,3,24/09/2024 00:15,Paycor Stadium,Cincinnati Bengals,Washington Commanders,33 - 38
+64,4,27/09/2024 00:15,MetLife Stadium,New York Giants,Dallas Cowboys,15 - 20
+56,4,29/09/2024 17:00,Mercedes-Benz Stadium,Atlanta Falcons,New Orleans Saints,26 - 24
+57,4,29/09/2024 17:00,Bank of America Stadium,Carolina Panthers,Cincinnati Bengals,24 - 34
+58,4,29/09/2024 17:00,Soldier Field,Chicago Bears,Los Angeles Rams,24 - 18
+59,4,29/09/2024 17:00,Lambeau Field,Green Bay Packers,Minnesota Vikings,29 - 31
+60,4,29/09/2024 17:00,NRG Stadium,Houston Texans,Jacksonville Jaguars,24 - 20
+61,4,29/09/2024 17:00,Lucas Oil Stadium,Indianapolis Colts,Pittsburgh Steelers,27 - 24
+62,4,29/09/2024 17:00,MetLife Stadium,New York Jets,Denver Broncos,9 - 10
+63,4,29/09/2024 17:00,Raymond James Stadium,Tampa Bay Buccaneers,Philadelphia Eagles,33 - 16
+54,4,29/09/2024 20:05,State Farm Stadium,Arizona Cardinals,Washington Commanders,14 - 42
+55,4,29/09/2024 20:05,Levi's Stadium,San Francisco 49ers,New England Patriots,30 - 13
+52,4,29/09/2024 20:25,SoFi Stadium,Los Angeles Chargers,Kansas City Chiefs,10 - 17
+53,4,29/09/2024 20:25,Allegiant Stadium,Las Vegas Raiders,Cleveland Browns,20 - 16
+51,4,30/09/2024 00:20,M&T Bank Stadium,Baltimore Ravens,Buffalo Bills,35 - 10
+50,4,30/09/2024 23:30,Hard Rock Stadium,Miami Dolphins,Tennessee Titans,12 - 31
+49,4,01/10/2024 00:15,Ford Field,Detroit Lions,Seattle Seahawks,42 - 29
+78,5,04/10/2024 00:15,Mercedes-Benz Stadium,Atlanta Falcons,Tampa Bay Buccaneers,36 - 30
+77,5,06/10/2024 13:30,Tottenham Hotspur Stadium,Minnesota Vikings,New York Jets,23 - 17
+71,5,06/10/2024 17:00,Soldier Field,Chicago Bears,Carolina Panthers,36 - 10
+72,5,06/10/2024 17:00,Paycor Stadium,Cincinnati Bengals,Baltimore Ravens,38 - 41
+73,5,06/10/2024 17:00,NRG Stadium,Houston Texans,Buffalo Bills,23 - 20
+74,5,06/10/2024 17:00,EverBank Stadium,Jacksonville Jaguars,Indianapolis Colts,37 - 34
+75,5,06/10/2024 17:00,Gillette Stadium,New England Patriots,Miami Dolphins,10 - 15
+76,5,06/10/2024 17:00,Northwest Stadium,Washington Commanders,Cleveland Browns,34 - 13
+69,5,06/10/2024 20:05,Empower Field at Mile High,Denver Broncos,Las Vegas Raiders,34 - 18
+70,5,06/10/2024 20:05,Levi's Stadium,San Francisco 49ers,Arizona Cardinals,23 - 24
+67,5,06/10/2024 20:25,SoFi Stadium,Los Angeles Rams,Green Bay Packers,19 - 24
+68,5,06/10/2024 20:25,Lumen Field,Seattle Seahawks,New York Giants,20 - 29
+66,5,07/10/2024 00:20,Acrisure Stadium,Pittsburgh Steelers,Dallas Cowboys,17 - 20
+65,5,08/10/2024 00:15,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,New Orleans Saints,26 - 13
+92,6,11/10/2024 00:15,Lumen Field,Seattle Seahawks,San Francisco 49ers,24 - 36
+91,6,13/10/2024 13:30,Tottenham Hotspur Stadium,Chicago Bears,Jacksonville Jaguars,35 - 16
+85,6,13/10/2024 17:00,M&T Bank Stadium,Baltimore Ravens,Washington Commanders,30 - 23
+86,6,13/10/2024 17:00,Lambeau Field,Green Bay Packers,Arizona Cardinals,34 - 13
+87,6,13/10/2024 17:00,Gillette Stadium,New England Patriots,Houston Texans,21 - 41
+88,6,13/10/2024 17:00,Caesars Superdome,New Orleans Saints,Tampa Bay Buccaneers,27 - 51
+89,6,13/10/2024 17:00,Lincoln Financial Field,Philadelphia Eagles,Cleveland Browns,20 - 16
+90,6,13/10/2024 17:00,Nissan Stadium,Tennessee Titans,Indianapolis Colts,17 - 20
+83,6,13/10/2024 20:05,Empower Field at Mile High,Denver Broncos,Los Angeles Chargers,16 - 23
+84,6,13/10/2024 20:05,Allegiant Stadium,Las Vegas Raiders,Pittsburgh Steelers,13 - 32
+81,6,13/10/2024 20:25,Bank of America Stadium,Carolina Panthers,Atlanta Falcons,20 - 38
+82,6,13/10/2024 20:25,AT&T Stadium,Dallas Cowboys,Detroit Lions,9 - 47
+80,6,14/10/2024 00:20,MetLife Stadium,New York Giants,Cincinnati Bengals,7 - 17
+79,6,15/10/2024 00:15,MetLife Stadium,New York Jets,Buffalo Bills,20 - 23
+107,7,18/10/2024 00:15,Caesars Superdome,New Orleans Saints,Denver Broncos,10 - 33
+106,7,20/10/2024 13:30,Wembley Stadium,Jacksonville Jaguars,New England Patriots,32 - 16
+99,7,20/10/2024 17:00,Mercedes-Benz Stadium,Atlanta Falcons,Seattle Seahawks,14 - 34
+100,7,20/10/2024 17:00,Highmark Stadium,Buffalo Bills,Tennessee Titans,34 - 10
+101,7,20/10/2024 17:00,Cleveland Browns Stadium,Cleveland Browns,Cincinnati Bengals,14 - 21
+102,7,20/10/2024 17:00,Lambeau Field,Green Bay Packers,Houston Texans,24 - 22
+103,7,20/10/2024 17:00,Lucas Oil Stadium,Indianapolis Colts,Miami Dolphins,16 - 10
+104,7,20/10/2024 17:00,U.S. Bank Stadium,Minnesota Vikings,Detroit Lions,29 - 31
+105,7,20/10/2024 17:00,MetLife Stadium,New York Giants,Philadelphia Eagles,3 - 28
+97,7,20/10/2024 20:05,SoFi Stadium,Los Angeles Rams,Las Vegas Raiders,20 - 15
+98,7,20/10/2024 20:05,Northwest Stadium,Washington Commanders,Carolina Panthers,40 - 7
+96,7,20/10/2024 20:25,Levi's Stadium,San Francisco 49ers,Kansas City Chiefs,18 - 28
+95,7,21/10/2024 00:20,Acrisure Stadium,Pittsburgh Steelers,New York Jets,37 - 15
+94,7,22/10/2024 00:15,Raymond James Stadium,Tampa Bay Buccaneers,Baltimore Ravens,31 - 41
+93,7,22/10/2024 01:00,State Farm Stadium,Arizona Cardinals,Los Angeles Chargers,17 - 15
+123,8,25/10/2024 00:15,SoFi Stadium,Los Angeles Rams,Minnesota Vikings,30 - 20
+110,8,27/10/2024 17:00,Paycor Stadium,Cincinnati Bengals,Philadelphia Eagles,17 - 37
+115,8,27/10/2024 17:00,Cleveland Browns Stadium,Cleveland Browns,Baltimore Ravens,29 - 24
+116,8,27/10/2024 17:00,Ford Field,Detroit Lions,Tennessee Titans,52 - 14
+117,8,27/10/2024 17:00,NRG Stadium,Houston Texans,Indianapolis Colts,23 - 20
+118,8,27/10/2024 17:00,EverBank Stadium,Jacksonville Jaguars,Green Bay Packers,27 - 30
+119,8,27/10/2024 17:00,Hard Rock Stadium,Miami Dolphins,Arizona Cardinals,27 - 28
+120,8,27/10/2024 17:00,Gillette Stadium,New England Patriots,New York Jets,25 - 22
+121,8,27/10/2024 17:00,Raymond James Stadium,Tampa Bay Buccaneers,Atlanta Falcons,26 - 31
+113,8,27/10/2024 20:05,SoFi Stadium,Los Angeles Chargers,New Orleans Saints,26 - 8
+114,8,27/10/2024 20:05,Lumen Field,Seattle Seahawks,Buffalo Bills,10 - 31
+111,8,27/10/2024 20:25,Empower Field at Mile High,Denver Broncos,Carolina Panthers,28 - 14
+112,8,27/10/2024 20:25,Allegiant Stadium,Las Vegas Raiders,Kansas City Chiefs,20 - 27
+122,8,27/10/2024 20:25,Northwest Stadium,Washington Commanders,Chicago Bears,18 - 15
+109,8,28/10/2024 00:20,Levi's Stadium,San Francisco 49ers,Dallas Cowboys,30 - 24
+108,8,29/10/2024 00:15,Acrisure Stadium,Pittsburgh Steelers,New York Giants,26 - 18
+138,9,01/11/2024 00:15,MetLife Stadium,New York Jets,Houston Texans,21 - 13
+129,9,03/11/2024 18:00,Mercedes-Benz Stadium,Atlanta Falcons,Dallas Cowboys,27 - 21
+130,9,03/11/2024 18:00,M&T Bank Stadium,Baltimore Ravens,Denver Broncos,41 - 10
+131,9,03/11/2024 18:00,Highmark Stadium,Buffalo Bills,Miami Dolphins,30 - 27
+132,9,03/11/2024 18:00,Bank of America Stadium,Carolina Panthers,New Orleans Saints,23 - 22
+133,9,03/11/2024 18:00,Paycor Stadium,Cincinnati Bengals,Las Vegas Raiders,41 - 24
+134,9,03/11/2024 18:00,Cleveland Browns Stadium,Cleveland Browns,Los Angeles Chargers,10 - 27
+136,9,03/11/2024 18:00,MetLife Stadium,New York Giants,Washington Commanders,22 - 27
+137,9,03/11/2024 18:00,Nissan Stadium,Tennessee Titans,New England Patriots,20 - 17
+125,9,03/11/2024 21:05,Lincoln Financial Field,Philadelphia Eagles,Jacksonville Jaguars,28 - 23
+128,9,03/11/2024 21:05,State Farm Stadium,Arizona Cardinals,Chicago Bears,29 - 9
+126,9,03/11/2024 21:25,Lambeau Field,Green Bay Packers,Detroit Lions,14 - 24
+127,9,03/11/2024 21:25,Lumen Field,Seattle Seahawks,Los Angeles Rams,20 - 26
+135,9,04/11/2024 01:20,U.S. Bank Stadium,Minnesota Vikings,Indianapolis Colts,21 - 13
+124,9,05/11/2024 01:15,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,Tampa Bay Buccaneers,30 - 24
+152,10,08/11/2024 01:15,M&T Bank Stadium,Baltimore Ravens,Cincinnati Bengals,35 - 34
+151,10,10/11/2024 14:30,Allianz Arena,Carolina Panthers,New York Giants,20 - 17
+144,10,10/11/2024 18:00,Soldier Field,Chicago Bears,New England Patriots,3 - 19
+145,10,10/11/2024 18:00,Lucas Oil Stadium,Indianapolis Colts,Buffalo Bills,20 - 30
+146,10,10/11/2024 18:00,EverBank Stadium,Jacksonville Jaguars,Minnesota Vikings,7 - 12
+147,10,10/11/2024 18:00,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,Denver Broncos,16 - 14
+148,10,10/11/2024 18:00,Caesars Superdome,New Orleans Saints,Atlanta Falcons,20 - 17
+149,10,10/11/2024 18:00,Raymond James Stadium,Tampa Bay Buccaneers,San Francisco 49ers,20 - 23
+150,10,10/11/2024 18:00,Northwest Stadium,Washington Commanders,Pittsburgh Steelers,27 - 28
+143,10,10/11/2024 21:05,SoFi Stadium,Los Angeles Chargers,Tennessee Titans,27 - 17
+141,10,10/11/2024 21:25,State Farm Stadium,Arizona Cardinals,New York Jets,31 - 6
+142,10,10/11/2024 21:25,AT&T Stadium,Dallas Cowboys,Philadelphia Eagles,6 - 34
+140,10,11/11/2024 01:20,NRG Stadium,Houston Texans,Detroit Lions,23 - 26
+139,10,12/11/2024 01:15,SoFi Stadium,Los Angeles Rams,Miami Dolphins,15 - 23
+166,11,15/11/2024 01:15,Lincoln Financial Field,Philadelphia Eagles,Washington Commanders,26 - 18
+154,11,17/11/2024 18:00,MetLife Stadium,New York Jets,Indianapolis Colts,27 - 28
+159,11,17/11/2024 18:00,Soldier Field,Chicago Bears,Green Bay Packers,19 - 20
+160,11,17/11/2024 18:00,Ford Field,Detroit Lions,Jacksonville Jaguars,52 - 6
+161,11,17/11/2024 18:00,Hard Rock Stadium,Miami Dolphins,Las Vegas Raiders,34 - 19
+162,11,17/11/2024 18:00,Gillette Stadium,New England Patriots,Los Angeles Rams,22 - 28
+163,11,17/11/2024 18:00,Caesars Superdome,New Orleans Saints,Cleveland Browns,35 - 14
+164,11,17/11/2024 18:00,Acrisure Stadium,Pittsburgh Steelers,Baltimore Ravens,18 - 16
+165,11,17/11/2024 18:00,Nissan Stadium,Tennessee Titans,Minnesota Vikings,13 - 23
+157,11,17/11/2024 21:05,Empower Field at Mile High,Denver Broncos,Atlanta Falcons,38 - 6
+158,11,17/11/2024 21:05,Levi's Stadium,San Francisco 49ers,Seattle Seahawks,17 - 20
+155,11,17/11/2024 21:25,Highmark Stadium,Buffalo Bills,Kansas City Chiefs,30 - 21
+156,11,18/11/2024 01:20,SoFi Stadium,Los Angeles Chargers,Cincinnati Bengals,34 - 27
+153,11,19/11/2024 01:15,AT&T Stadium,Dallas Cowboys,Houston Texans,10 - 34
+179,12,22/11/2024 01:15,Cleveland Browns Stadium,Cleveland Browns,Pittsburgh Steelers,24 - 19
+172,12,24/11/2024 18:00,Bank of America Stadium,Carolina Panthers,Kansas City Chiefs,27 - 30
+173,12,24/11/2024 18:00,Soldier Field,Chicago Bears,Minnesota Vikings,27 - 30
+174,12,24/11/2024 18:00,NRG Stadium,Houston Texans,Tennessee Titans,27 - 32
+175,12,24/11/2024 18:00,Lucas Oil Stadium,Indianapolis Colts,Detroit Lions,6 - 24
+176,12,24/11/2024 18:00,Hard Rock Stadium,Miami Dolphins,New England Patriots,34 - 15
+177,12,24/11/2024 18:00,MetLife Stadium,New York Giants,Tampa Bay Buccaneers,7 - 30
+178,12,24/11/2024 18:00,Northwest Stadium,Washington Commanders,Dallas Cowboys,26 - 34
+171,12,24/11/2024 21:05,Allegiant Stadium,Las Vegas Raiders,Denver Broncos,19 - 29
+169,12,24/11/2024 21:25,Lambeau Field,Green Bay Packers,San Francisco 49ers,38 - 10
+170,12,24/11/2024 21:25,Lumen Field,Seattle Seahawks,Arizona Cardinals,16 - 6
+168,12,25/11/2024 01:20,SoFi Stadium,Los Angeles Rams,Philadelphia Eagles,20 - 37
+167,12,26/11/2024 01:15,SoFi Stadium,Los Angeles Chargers,Baltimore Ravens,23 - 30
+195,13,28/11/2024 17:30,Ford Field,Detroit Lions,Chicago Bears,23 - 20
+194,13,28/11/2024 21:30,AT&T Stadium,Dallas Cowboys,New York Giants,27 - 20
+193,13,29/11/2024 01:20,Lambeau Field,Green Bay Packers,Miami Dolphins,30 - 17
+192,13,29/11/2024 20:00,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,Las Vegas Raiders,19 - 17
+185,13,01/12/2024 18:00,Mercedes-Benz Stadium,Atlanta Falcons,Los Angeles Chargers,13 - 17
+186,13,01/12/2024 18:00,Paycor Stadium,Cincinnati Bengals,Pittsburgh Steelers,38 - 44
+187,13,01/12/2024 18:00,EverBank Stadium,Jacksonville Jaguars,Houston Texans,20 - 23
+188,13,01/12/2024 18:00,U.S. Bank Stadium,Minnesota Vikings,Arizona Cardinals,23 - 22
+189,13,01/12/2024 18:00,Gillette Stadium,New England Patriots,Indianapolis Colts,24 - 25
+190,13,01/12/2024 18:00,MetLife Stadium,New York Jets,Seattle Seahawks,21 - 26
+191,13,01/12/2024 18:00,Northwest Stadium,Washington Commanders,Tennessee Titans,42 - 19
+183,13,01/12/2024 21:05,Bank of America Stadium,Carolina Panthers,Tampa Bay Buccaneers,23 - 26
+184,13,01/12/2024 21:05,Caesars Superdome,New Orleans Saints,Los Angeles Rams,14 - 21
+182,13,01/12/2024 21:25,M&T Bank Stadium,Baltimore Ravens,Philadelphia Eagles,19 - 24
+181,13,02/12/2024 01:20,Highmark Stadium,Buffalo Bills,San Francisco 49ers,35 - 10
+180,13,03/12/2024 01:15,Empower Field at Mile High,Denver Broncos,Cleveland Browns,41 - 32
+208,14,06/12/2024 01:15,Ford Field,Detroit Lions,Green Bay Packers,34 - 31
+201,14,08/12/2024 18:00,Hard Rock Stadium,Miami Dolphins,New York Jets,32 - 26
+202,14,08/12/2024 18:00,U.S. Bank Stadium,Minnesota Vikings,Atlanta Falcons,42 - 21
+203,14,08/12/2024 18:00,MetLife Stadium,New York Giants,New Orleans Saints,11 - 14
+204,14,08/12/2024 18:00,Lincoln Financial Field,Philadelphia Eagles,Carolina Panthers,22 - 16
+205,14,08/12/2024 18:00,Acrisure Stadium,Pittsburgh Steelers,Cleveland Browns,27 - 14
+206,14,08/12/2024 18:00,Raymond James Stadium,Tampa Bay Buccaneers,Las Vegas Raiders,28 - 13
+207,14,08/12/2024 18:00,Nissan Stadium,Tennessee Titans,Jacksonville Jaguars,6 - 10
+200,14,08/12/2024 21:05,State Farm Stadium,Arizona Cardinals,Seattle Seahawks,18 - 30
+198,14,08/12/2024 21:25,SoFi Stadium,Los Angeles Rams,Buffalo Bills,44 - 42
+199,14,08/12/2024 21:25,Levi's Stadium,San Francisco 49ers,Chicago Bears,38 - 13
+197,14,09/12/2024 01:20,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,Los Angeles Chargers,19 - 17
+196,14,10/12/2024 01:15,AT&T Stadium,Dallas Cowboys,Cincinnati Bengals,20 - 27
+224,15,13/12/2024 01:15,Levi's Stadium,San Francisco 49ers,Los Angeles Rams,6 - 12
+217,15,15/12/2024 18:00,Bank of America Stadium,Carolina Panthers,Dallas Cowboys,14 - 30
+218,15,15/12/2024 18:00,Cleveland Browns Stadium,Cleveland Browns,Kansas City Chiefs,7 - 21
+219,15,15/12/2024 18:00,NRG Stadium,Houston Texans,Miami Dolphins,20 - 12
+220,15,15/12/2024 18:00,EverBank Stadium,Jacksonville Jaguars,New York Jets,25 - 32
+221,15,15/12/2024 18:00,Caesars Superdome,New Orleans Saints,Washington Commanders,19 - 20
+222,15,15/12/2024 18:00,MetLife Stadium,New York Giants,Baltimore Ravens,14 - 35
+223,15,15/12/2024 18:00,Nissan Stadium,Tennessee Titans,Cincinnati Bengals,27 - 37
+212,15,15/12/2024 21:25,State Farm Stadium,Arizona Cardinals,New England Patriots,30 - 17
+213,15,15/12/2024 21:25,Empower Field at Mile High,Denver Broncos,Indianapolis Colts,31 - 13
+214,15,15/12/2024 21:25,Ford Field,Detroit Lions,Buffalo Bills,42 - 48
+215,15,15/12/2024 21:25,SoFi Stadium,Los Angeles Chargers,Tampa Bay Buccaneers,17 - 40
+216,15,15/12/2024 21:25,Lincoln Financial Field,Philadelphia Eagles,Pittsburgh Steelers,27 - 13
+211,15,16/12/2024 01:20,Lumen Field,Seattle Seahawks,Green Bay Packers,13 - 30
+210,15,17/12/2024 01:00,U.S. Bank Stadium,Minnesota Vikings,Chicago Bears,30 - 12
+209,15,17/12/2024 01:30,Allegiant Stadium,Las Vegas Raiders,Atlanta Falcons,9 - 15
+229,16,20/12/2024 01:15,SoFi Stadium,Los Angeles Chargers,Denver Broncos,34 - 27
+239,16,21/12/2024 18:00,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,Houston Texans,27 - 19
+238,16,21/12/2024 21:30,M&T Bank Stadium,Baltimore Ravens,Pittsburgh Steelers,34 - 17
+231,16,22/12/2024 18:00,Mercedes-Benz Stadium,Atlanta Falcons,New York Giants,34 - 7
+233,16,22/12/2024 18:00,Bank of America Stadium,Carolina Panthers,Arizona Cardinals,36 - 30
+234,16,22/12/2024 18:00,Soldier Field,Chicago Bears,Detroit Lions,17 - 34
+235,16,22/12/2024 18:00,Lucas Oil Stadium,Indianapolis Colts,Tennessee Titans,38 - 30
+236,16,22/12/2024 18:00,MetLife Stadium,New York Jets,Los Angeles Rams,9 - 19
+237,16,22/12/2024 18:00,Northwest Stadium,Washington Commanders,Philadelphia Eagles,36 - 33
+240,16,22/12/2024 18:00,Paycor Stadium,Cincinnati Bengals,Cleveland Browns,24 - 6
+230,16,22/12/2024 21:05,Lumen Field,Seattle Seahawks,Minnesota Vikings,24 - 27
+227,16,22/12/2024 21:25,Allegiant Stadium,Las Vegas Raiders,Jacksonville Jaguars,19 - 14
+228,16,22/12/2024 21:25,Hard Rock Stadium,Miami Dolphins,San Francisco 49ers,29 - 17
+232,16,22/12/2024 21:25,Highmark Stadium,Buffalo Bills,New England Patriots,24 - 21
+226,16,23/12/2024 01:20,AT&T Stadium,Dallas Cowboys,Tampa Bay Buccaneers,26 - 24
+225,16,24/12/2024 01:15,Lambeau Field,Green Bay Packers,New Orleans Saints,34 - 0
+256,17,25/12/2024 18:00,Acrisure Stadium,Pittsburgh Steelers,Kansas City Chiefs,10 - 29
+255,17,25/12/2024 21:30,NRG Stadium,Houston Texans,Baltimore Ravens,2 - 31
+254,17,27/12/2024 01:15,Soldier Field,Chicago Bears,Seattle Seahawks,3 - 6
+243,17,28/12/2024 18:00,Gillette Stadium,New England Patriots,Los Angeles Chargers,7 - 40
+241,17,28/12/2024 21:30,Paycor Stadium,Cincinnati Bengals,Denver Broncos,30 - 24
+242,17,29/12/2024 01:10,SoFi Stadium,Los Angeles Rams,Arizona Cardinals,13 - 9
+244,17,29/12/2024 18:00,MetLife Stadium,New York Giants,Indianapolis Colts,45 - 33
+248,17,29/12/2024 18:00,Lincoln Financial Field,Philadelphia Eagles,Dallas Cowboys,41 - 7
+249,17,29/12/2024 18:00,Highmark Stadium,Buffalo Bills,New York Jets,40 - 14
+250,17,29/12/2024 18:00,EverBank Stadium,Jacksonville Jaguars,Tennessee Titans,20 - 13
+252,17,29/12/2024 18:00,Caesars Superdome,New Orleans Saints,Las Vegas Raiders,10 - 25
+253,17,29/12/2024 18:00,Raymond James Stadium,Tampa Bay Buccaneers,Carolina Panthers,48 - 14
+247,17,29/12/2024 21:05,Cleveland Browns Stadium,Cleveland Browns,Miami Dolphins,3 - 20
+251,17,29/12/2024 21:25,U.S. Bank Stadium,Minnesota Vikings,Green Bay Packers,27 - 25
+245,17,30/12/2024 01:20,Northwest Stadium,Washington Commanders,Atlanta Falcons,30 - 24
+246,17,31/12/2024 01:15,Levi's Stadium,San Francisco 49ers,Detroit Lions,34 - 40
+259,18,04/01/2025 21:30,M&T Bank Stadium,Baltimore Ravens,Cleveland Browns,35 - 10
+270,18,05/01/2025 01:00,Acrisure Stadium,Pittsburgh Steelers,Cincinnati Bengals,17 - 19
+258,18,05/01/2025 18:00,Mercedes-Benz Stadium,Atlanta Falcons,Carolina Panthers,38 - 44
+260,18,05/01/2025 18:00,AT&T Stadium,Dallas Cowboys,Washington Commanders,19 - 23
+263,18,05/01/2025 18:00,Lambeau Field,Green Bay Packers,Chicago Bears,22 - 24
+264,18,05/01/2025 18:00,Lucas Oil Stadium,Indianapolis Colts,Jacksonville Jaguars,26 - 23
+267,18,05/01/2025 18:00,Gillette Stadium,New England Patriots,Buffalo Bills,23 - 16
+269,18,05/01/2025 18:00,Lincoln Financial Field,Philadelphia Eagles,New York Giants,20 - 13
+271,18,05/01/2025 18:00,Raymond James Stadium,Tampa Bay Buccaneers,New Orleans Saints,27 - 19
+272,18,05/01/2025 18:00,Nissan Stadium,Tennessee Titans,Houston Texans,14 - 23
+257,18,05/01/2025 21:25,State Farm Stadium,Arizona Cardinals,San Francisco 49ers,47 - 24
+261,18,05/01/2025 21:25,Empower Field at Mile High,Denver Broncos,Kansas City Chiefs,39 - 0
+265,18,05/01/2025 21:25,SoFi Stadium,Los Angeles Rams,Seattle Seahawks,25 - 30
+266,18,05/01/2025 21:25,Allegiant Stadium,Las Vegas Raiders,Los Angeles Chargers,20 - 34
+268,18,05/01/2025 21:25,MetLife Stadium,New York Jets,Miami Dolphins,32 - 20
+262,18,06/01/2025 01:20,Ford Field,Detroit Lions,Minnesota Vikings,31 - 9
+273,Wild Card Round,11/01/2025 21:30,NRG Stadium,Houston Texans,Los Angeles Chargers,32 - 12
+274,Wild Card Round,12/01/2025 01:00,M&T Bank Stadium,Baltimore Ravens,Pittsburgh Steelers,28 - 14
+275,Wild Card Round,12/01/2025 18:00,Highmark Stadium,Buffalo Bills,Denver Broncos,31 - 7
+276,Wild Card Round,12/01/2025 21:30,Lincoln Financial Field,Philadelphia Eagles,Green Bay Packers,22 - 10
+277,Wild Card Round,13/01/2025 01:00,Raymond James Stadium,Tampa Bay Buccaneers,Washington Commanders,20 - 23
+278,Wild Card Round,14/01/2025 01:00,State Farm Stadium,Los Angeles Rams,Minnesota Vikings,27 - 9
+279,Divisional Round,18/01/2025 21:30,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,Houston Texans,23 - 14
+280,Divisional Round,19/01/2025 01:00,Ford Field,Detroit Lions,Washington Commanders,31 - 45
+281,Divisional Round,19/01/2025 20:00,Lincoln Financial Field,Philadelphia Eagles,Los Angeles Rams,28 - 22
+282,Divisional Round,19/01/2025 23:30,Highmark Stadium,Buffalo Bills,Baltimore Ravens,27 - 25
+283,Conference Champs,26/01/2025 20:00,Lincoln Financial Field,Philadelphia Eagles,Washington Commanders,55 - 23
+284,Conference Champs,26/01/2025 23:30,GEHA Field at Arrowhead Stadium,Kansas City Chiefs,Buffalo Bills,32 - 29
+285,Super Bowl,09/02/2025 23:30,Caesars Superdome,Philadelphia Eagles,Kansas City Chiefs,40 - 22
